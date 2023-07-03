@@ -189,7 +189,7 @@ def preprocess_image(img) :
 #######################################################################
 
 ##### dataset ############################################
-data_df = pd.read_csv("C:\\Users\\Samruddhi\\Desktop\\Neural Networks\\datasets\\MNIST data\\mnist_train.csv")
+data_df = pd.read_csv("")
 
 data = np.array(data_df) #converting df to numpy array
     #60,000 rows  #785 columns
