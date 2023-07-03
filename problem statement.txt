@@ -1,0 +1,9 @@
+
+
+Problem statement: 
+
+Develop a machine learning model that can accurately classify handwritten digits from 0 to 9. The model should take an image of a handwritten digit as input and output the corresponding digit. The goal is to achieve high accuracy on the classification task, using a dataset of labeled images to train the model. The model should be able to handle variations in handwriting styles and noise in the input images. The model's performance should be evaluated using metrics such as accuracy, precision, recall, and F1 score on a held-out test set. The final model should be able to generalize well to new, unseen handwritten digits.
+
+
+data set : MNIST data set
+aim: recognise and classify handwritten images training an ANN from scratch using numpy only !
